@@ -1,0 +1,10 @@
+{
+    "program": "health.aleo",
+    "version": "1.0.1",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp6amLKYgDFkQGsm73KbTSv2dNHZXgcubLy4FVhXSTkqpj",
+        "address": "aleo1vuy79xxu69f77xuj0k6uwrt2xpgjme05vyasa2y09c8gwel8rcqqvvqjkg"
+    },
+    "license": "MIT"
+}

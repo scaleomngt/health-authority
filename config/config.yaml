@@ -1,0 +1,6 @@
+PrivateKey: APrivateKey1zkpGuwJRbADs5MnpX4RVSaZtWwQp8cJTUCkyyDp7j89psi3
+ViewKey: AViewKey1oBbWKyGFVvgmgs8TtUXFKt5SeTRv5AeqRJPCbtzRe5Wz
+Address: aleo1lta67clyjt0hk9j53ml7az0w7yhcq5dj0nx8w2fwsnxwy722huysa03w08
+ApiUrl: https://vm.aleo.org/api/testnet3/transaction/
+RedisServer: 172.18.10.46:6379
+Contract: health_1lta67.aleo

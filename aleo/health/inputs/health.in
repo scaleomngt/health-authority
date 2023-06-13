@@ -1,0 +1,49 @@
+// The program input for health_1lta67/src/main.leo
+[submit]
+info: HealthInfo = HealthInfo {
+	 classify: 1u32,
+     sbp: 110u32, 
+     dbp: 90u32, 
+     hr: 150u32, 
+     pbg: 60u32,
+     addr: aleo1lta67clyjt0hk9j53ml7az0w7yhcq5dj0nx8w2fwsnxwy722huysa03w08,
+};
+
+[measure_bp]
+health: Health = Health {
+     owner: aleo1vuy79xxu69f77xuj0k6uwrt2xpgjme05vyasa2y09c8gwel8rcqqvvqjkg,
+     gates: 0u64,
+     id: 1687990959698774262770064518610077539891627833854482600452755837662832032913field,
+     classify: 1u32,
+     sbp: 110u32, 
+     dbp: 90u32, 
+     hr: 150u32, 
+     pbg: 60u32,
+    _nonce: 4670696182767001490109611454279503434596864814544402582629110260579808265341group
+};
+
+[measure_hr]
+health: Health = Health {
+     owner: aleo1vuy79xxu69f77xuj0k6uwrt2xpgjme05vyasa2y09c8gwel8rcqqvvqjkg,
+     gates: 0u64,
+     id: 1687990959698774262770064518610077539891627833854482600452755837662832032913field,
+     classify: 1u32,
+     sbp: 110u32,
+     dbp: 90u32,
+     hr: 150u32,
+     pbg: 60u32,
+    _nonce: 4670696182767001490109611454279503434596864814544402582629110260579808265341group
+};
+
+[measure_pbg]
+health: Health = Health {
+     owner: aleo1vuy79xxu69f77xuj0k6uwrt2xpgjme05vyasa2y09c8gwel8rcqqvvqjkg,
+     gates: 0u64,
+     id: 1687990959698774262770064518610077539891627833854482600452755837662832032913field,
+     classify: 1u32,
+     sbp: 110u32,
+     dbp: 90u32,
+     hr: 150u32,
+     pbg: 60u32,
+    _nonce: 8406991257064666103349642711129359200166446506235774342292226566546883242419group
+};
