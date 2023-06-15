@@ -1,4 +1,4 @@
-# healths_1sa7ez.aleo
+# healths.aleo
 
 ## Build Guide
 
