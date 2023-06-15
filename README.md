@@ -30,6 +30,8 @@ snarkos developer deploy health.aleo --private-key $PRIVATE_KEY --query "https:/
 --broadcast "https://vm.aleo.org/api/testnet3/transaction/broadcast" --fee 600000 \
 --record <Record_that_you_just_transferred_credits_to>
 ```
+# Data flow diagram
+<img src="https://github.com/scaleomngt/health-authority/blob/main/t5.png" alt="drawing" width="800"/>
 # Program Execution
 * 1. To register an Aleo account for users on a website page.
 * 2. Enter user health data, such as blood pressure, heart rate, blood sugar, and other information, then click submit.
