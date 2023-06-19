@@ -38,4 +38,7 @@ snarkos developer deploy health.aleo --private-key $PRIVATE_KEY --query "https:/
 * 2. Enter user health data, such as blood pressure, heart rate, blood sugar, and other information, then click submit.
 * 3. Invoke the Leo verification program and receive the transaction hash.
 * 4. Use the transaction hash to provide third parties with confirmation of the user's health status without exposing the user's private data.
+<img src="https://github.com/scaleomngt/health-authority/blob/main/t1.png" alt="drawing" width="800"/>
+<img src="https://github.com/scaleomngt/health-authority/blob/main/t2.png" alt="drawing" width="800"/>
+<img src="https://github.com/scaleomngt/health-authority/blob/main/t3.png" alt="drawing" width="800"/>
 
