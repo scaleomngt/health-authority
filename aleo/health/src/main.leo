@@ -31,7 +31,7 @@ program health.aleo {
     //mapping healths: field => u64;
 
     transition submit(public info: HealthInfo) -> Health {       
-        let id: field = BHP256::hash(info.addr);
+        let id: field = BHP256::hash_to_field(info.addr);
         let result: u64 = 0u64;
         //if(info.classify == 1u32){
         //	result = measure_bp(info.sbp,info.dbp);
